@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project State"
+  short_description: "Persist and restore project context across sessions"
+  default_prompt: "Use $project-state to initialize or restore this project state, then continue the requested development work."
